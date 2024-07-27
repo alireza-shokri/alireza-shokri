@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alireza-shokri
+- 👋 Hi, I’m @alireeza-shokri
 
 <!---
 alireza-shokri/alireza-shokri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
