@@ -1,6 +1,20 @@
-- 👋 Hi, I’m @alireeza-shokri
+##  alireza shokri
+**web developer**
 
-<!---
-alireza-shokri/alireza-shokri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+من یک برنامه‌نویس پرشور هستم که عاشق ساختن وب‌سایت‌های زیبا و کاربردی است.
+
+### مهارت‌ها
+
+| زبان برنامه‌نویسی   |  سطح تسلط | مثال کد |
+|---|---|---|
+| HTML5 | پیشرفته | `html <p>سلام، دنیا!</p> ` |
+| CSS3 | پیشرفته| `css body { background-color: lightblue; } ` |
+| JavaScript | پیشرفته | `javascript console.log("Hello, World!"); ` |
+| Python | متوسط | `python print("Hello, World!") ` |
+| C++ | متوسط | `c++ #include <iostream> int main() { std::cout << "Hello, World!" << std::endl; } ` |
+
+
+
+### تماس با من
+* **ایمیل:** lshkry88@gmail.com
+
