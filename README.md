@@ -12,6 +12,7 @@
 | JavaScript | پیشرفته | `javascript console.log("Hello, World!"); ` |
 | Python | متوسط | `python print("Hello, World!") ` |
 | C++ | متوسط | `c++ #include <iostream> int main() { std::cout << "Hello, World!" << std::endl; } ` |
+| react | متوسط | `jsx` |
 
 
 
