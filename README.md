@@ -13,9 +13,11 @@
 | Python | متوسط | `python print("Hello, World!") ` |
 | C++ | متوسط | `c++ #include <iostream> int main() { std::cout << "Hello, World!" << std::endl; } ` |
 | react | متوسط | `jsx` |
+| github-git | پیشرفته | `git {git push git pull git status ` |
+
 
 
 
 ### تماس با من
-* **ایمیل:** lshkry88@gmail.com
+* **ایمیل:** lshkry88@gmail.com{
 
