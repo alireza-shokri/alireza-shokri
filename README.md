@@ -1,6 +1,7 @@
-##  alireza shokri
-**web developer**
-[alireezashokri.ir](https://alireezashokri.ir/)
+## i am alireza shokri :
+> **web developer**
+
+> [alireezashokri.ir](https://alireezashokri.ir/)
 
 من یک برنامه‌نویس هستم 🤷‍♂️
 
@@ -12,13 +13,13 @@
 | CSS3 | پیشرفته| `css body { background-color: lightblue; } ` |
 | JavaScript | پیشرفته | `javascript console.log("Hello, World!"); ` |
 | Python | متوسط | `python print("Hello, World!") ` |
-| C++ | متوسط | `c++ #include <iostream> int main() { std::cout << "Hello, World!" << std::endl; } ` |
-| react | متوسط | `jsx` |
-| github-git | پیشرفته | `git {git push git pull git status ` |
+| C++ | مقدماتی | `c++ #include <iostream> int main() { std::cout << "Hello, World!" << std::endl; } ` |
+| react | متوسط | `jsx : function App(){return (<p>Hello, World!</p>)}` |
+| github-git | پیشرفته | `git { git init }  ` |
 
 
 
 
 ### تماس با من
-* **ایمیل:** lshkry88@gmail.com
-* 
+ > **ایمیل:** lshkry88@gmail.com
+
