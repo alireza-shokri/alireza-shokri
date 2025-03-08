@@ -1,5 +1,6 @@
 ##  alireza shokri
 **web developer**
+[alireezashokri.ir](https://alireezashokri.ir/)
 
 من یک برنامه‌نویس هستم 🤷‍♂️
 
@@ -19,5 +20,5 @@
 
 
 ### تماس با من
-* **ایمیل:** lshkry88@gmail.com{
-
+* **ایمیل:** lshkry88@gmail.com
+* 
