@@ -14,9 +14,9 @@
 | JavaScript | پیشرفته | `javascript console.log("Hello, World!"); ` |
 | Python | متوسط | `python print("Hello, World!") ` |
 | C++ | مقدماتی | `c++ #include <iostream> int main() { std::cout << "Hello, World!" << std::endl; } ` |
-| react | متوسط | `jsx : function App(){return (<p>Hello, World!</p>)}` |
-| github-git | پیشرفته | `git { git init }  ` |
-| tailwind |پیشرفته | `mt-4 p-4 bg-rose-700 `|
+| React | متوسط | `jsx : function App(){return (<p>Hello, World!</p>)}` |
+| Github-git | پیشرفته | `git { git init }  ` |
+| Tailwind |پیشرفته | `mt-4 p-4 bg-rose-700 `|
 
 
 
