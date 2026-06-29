@@ -1,7 +1,7 @@
 ## i am alireza shokri :
 > **web developer**
 
-> [alireezashokri.ir](https://alireezashokri.ir/)
+> [linkdin]([https://alireezashokri.ir/](https://www.linkedin.com/in/alireza-shokri-0883a32a8/))
 
 im a programer 🤷‍♂️
 
