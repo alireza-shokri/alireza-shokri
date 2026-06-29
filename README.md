@@ -20,6 +20,5 @@ im a programer 🤷‍♂️
 
 
 
-### تماس با من
  > **ایمیل:** lshkry88@gmail.com
 
