@@ -3,7 +3,7 @@
 
 > [alireezashokri.ir](https://alireezashokri.ir/)
 
-من یک برنامه‌نویس هستم 🤷‍♂️
+im a programer 🤷‍♂️
 
 ### مهارت‌ها
 
