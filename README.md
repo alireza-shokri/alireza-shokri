@@ -106,7 +106,7 @@ const alireza = {
 
 ### 🚀 Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=alireza-shokri&style=for-the-badge&color=blue" alt="Profile Views"/>
 
 ---
 
